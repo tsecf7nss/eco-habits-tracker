@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eco-habits-tracker/static/css/main.7fb8fb8f.css",
+    "main.js": "/eco-habits-tracker/static/js/main.a00335d1.js",
+    "index.html": "/eco-habits-tracker/index.html",
+    "main.7fb8fb8f.css.map": "/eco-habits-tracker/static/css/main.7fb8fb8f.css.map",
+    "main.a00335d1.js.map": "/eco-habits-tracker/static/js/main.a00335d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb8fb8f.css",
+    "static/js/main.a00335d1.js"
+  ]
+}
